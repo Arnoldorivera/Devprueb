@@ -12,7 +12,8 @@ package prueba_as;
 public class Acerca extends javax.swing.JFrame {
 
     /**
-     * Creates new form acerca
+     * En esta clase se crea una ventana 
+     * que muestra los datos de la empresa.
      */
     public Acerca() {
         initComponents();
