@@ -29,6 +29,10 @@ import java.util.Map;
 import javax.swing.ImageIcon;
 import org.json.JSONException;
 
+
+/**
+La clase Principal: aqui se ejecuta todo el sistema de la ventana principal 
+*/
 public class Principal extends javax.swing.JFrame {
 
     private String comando, ruta;
