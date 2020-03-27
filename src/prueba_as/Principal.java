@@ -32,6 +32,8 @@ import org.json.JSONException;
 
 /**
 La clase Principal: aqui se ejecuta todo el sistema de la ventana principal 
+como enviar lecturas no sincronizadas,
+el timer para la frecuencia de sincronizacion, y conexion con servidor.
 */
 public class Principal extends javax.swing.JFrame {
 
